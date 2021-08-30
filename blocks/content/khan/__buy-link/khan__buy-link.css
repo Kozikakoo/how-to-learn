@@ -1,0 +1,11 @@
+.khan__buy-link {
+    text-decoration: none;
+    color: #2f80ed;
+    transition: color 1s linear 1s;
+    margin-top: 68px;
+    margin-left: 48px;
+    }
+
+    .khan__buy-link:hover {
+    opacity: 0.5;
+    }
